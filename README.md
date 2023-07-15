@@ -1,6 +1,6 @@
 <div align = "center">
 <h1>Hi 👋, I'm Yash Shukla</h1>
-<h3>An electrical engineering undergrad. I have a passion for learning about new technologies and exploring the ever-evolving world of tech.</h3>
+<h3>An electrical engineering undergrad. I have a passion for learning about new technologies and exploring the ever-evolving world of tech. In my free time, I find joy in watching and playing football, fueling my passion for the sport.</h3>
 </div>
 <div align="center">
   <h3>Languages and Tools:</h3>
